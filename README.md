@@ -36,4 +36,4 @@ Nesta atividade, você será avaliado nos indicadores:
 - :up: atualização
 - :beetle: correção de bug
 - :checkered_flag: release
-- :1: first commit
+- 1️⃣ first commit
